@@ -1,5 +1,5 @@
-# Hospital-Management-System
-A computerized hospital management system to automate certain tasks in hospitals and clinics.
+# Hospital Manager
+This is a Python-based hospital management system that automates tasks in hospitals and clinics.
 
 # Software Requirements
 
